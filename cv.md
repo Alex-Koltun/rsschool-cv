@@ -46,7 +46,6 @@
 ### Примеры кода ###
 
 [Latest project](https://portal.desktop.rent).
-[]().
 
 ### Опыт работы ###
 
